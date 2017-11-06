@@ -1,0 +1,128 @@
+{
+    "responses": [
+        {
+            "imagePropertiesAnnotation": {
+                "dominantColors": {
+                    "colors": [
+                        {
+                            "color": {
+                                "red": 217,
+                                "green": 238,
+                                "blue": 241
+                            },
+                            "score": 0.33206055,
+                            "pixelFraction": 0.33800215
+                        },
+                        {
+                            "color": {
+                                "red": 172,
+                                "green": 202,
+                                "blue": 199
+                            },
+                            "score": 0.18451415,
+                            "pixelFraction": 0.1577675
+                        },
+                        {
+                            "color": {
+                                "red": 16,
+                                "green": 18,
+                                "blue": 23
+                            },
+                            "score": 0.087481156,
+                            "pixelFraction": 0.11944543
+                        },
+                        {
+                            "color": {
+                                "red": 198,
+                                "green": 229,
+                                "blue": 231
+                            },
+                            "score": 0.073106974,
+                            "pixelFraction": 0.060291503
+                        },
+                        {
+                            "color": {
+                                "red": 52,
+                                "green": 50,
+                                "blue": 54
+                            },
+                            "score": 0.049416814,
+                            "pixelFraction": 0.060291503
+                        },
+                        {
+                            "color": {
+                                "red": 194,
+                                "green": 206,
+                                "blue": 204
+                            },
+                            "score": 0.040147066,
+                            "pixelFraction": 0.043156773
+                        },
+                        {
+                            "color": {
+                                "red": 85,
+                                "green": 82,
+                                "blue": 85
+                            },
+                            "score": 0.034196712,
+                            "pixelFraction": 0.042943478
+                        },
+                        {
+                            "color": {
+                                "red": 11,
+                                "green": 26,
+                                "blue": 39
+                            },
+                            "score": 0.029518042,
+                            "pixelFraction": 0.02275151
+                        },
+                        {
+                            "color": {
+                                "red": 140,
+                                "green": 170,
+                                "blue": 168
+                            },
+                            "score": 0.026005553,
+                            "pixelFraction": 0.023533594
+                        },
+                        {
+                            "color": {
+                                "red": 208,
+                                "green": 191,
+                                "blue": 172
+                            },
+                            "score": 0.018616665,
+                            "pixelFraction": 0.016850337
+                        }
+                    ]
+                }
+            },
+            "cropHintsAnnotation": {
+                "cropHints": [
+                    {
+                        "boundingPoly": {
+                            "vertices": [
+                                {
+                                    "x": 16
+                                },
+                                {
+                                    "x": 854
+                                },
+                                {
+                                    "x": 854,
+                                    "y": 569
+                                },
+                                {
+                                    "x": 16,
+                                    "y": 569
+                                }
+                            ]
+                        },
+                        "confidence": 1,
+                        "importanceFraction": 0.91999996
+                    }
+                ]
+            }
+        }
+    ]
+}

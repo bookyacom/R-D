@@ -1,5 +1,6 @@
 import csv
 import json
+import payload_api
 
 
 ## Opening json containing the festivals and bios
@@ -16,6 +17,18 @@ with open('test_festivals.csv', 'w') as csvfile:
             print(key_value)
             i = str(key)
             writer.writerow([i])
+
+
+
+data_payload = {
+    "encodingType": "UTF8",
+    "document": {
+    "type": "PLAIN_TEXT",
+    "content": "placehodler"
+  }
+}
+
+
 
 
 

@@ -1,5 +1,6 @@
 import csv
 import json
+import payload_api
 
 import sys
 
@@ -99,6 +100,18 @@ data_payload = {
 
 
 
+
+
+
+
+
+data_payload = {
+    "encodingType": "UTF8",
+    "document": {
+    "type": "PLAIN_TEXT",
+    "content": "placehodler"
+  }
+}
 
 
 

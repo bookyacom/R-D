@@ -1,0 +1,626 @@
+{
+  "entities": [
+    {
+      "name": "IndianGerman Spirit",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/05jpb7",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Spirit"
+      },
+      "salience": 0.44623685,
+      "mentions": [
+        {
+          "text": {
+            "content": "Indian Spirit",
+            "beginOffset": 4
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Indian Spirit",
+            "beginOffset": 322
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Indian Spirit",
+            "beginOffset": 501
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "IndianGerman Spirit",
+            "beginOffset": 885
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "experience",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08555298,
+      "mentions": [
+        {
+          "text": {
+            "content": "experience",
+            "beginOffset": 384
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "reason",
+            "beginOffset": 421
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "freaks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0736128,
+      "mentions": [
+        {
+          "text": {
+            "content": "freaks",
+            "beginOffset": 207
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "beaches",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.07068189,
+      "mentions": [
+        {
+          "text": {
+            "content": "beaches",
+            "beginOffset": 49
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "place",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07068189,
+      "mentions": [
+        {
+          "text": {
+            "content": "place",
+            "beginOffset": 108
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Goa",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/01c1nm",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Goa"
+      },
+      "salience": 0.04234871,
+      "mentions": [
+        {
+          "text": {
+            "content": "Goa",
+            "beginOffset": 60
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "tribe",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013123121,
+      "mentions": [
+        {
+          "text": {
+            "content": "tribe",
+            "beginOffset": 173
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "world",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.013123121,
+      "mentions": [
+        {
+          "text": {
+            "content": "world",
+            "beginOffset": 241
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "festival",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.010944542,
+      "mentions": [
+        {
+          "text": {
+            "content": "festival",
+            "beginOffset": 336
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "festival",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.010080632,
+      "mentions": [
+        {
+          "text": {
+            "content": "festival",
+            "beginOffset": 624
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "minds",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010009142,
+      "mentions": [
+        {
+          "text": {
+            "content": "minds",
+            "beginOffset": 300
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "DJ Syncron",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/g/11bt_1754t"
+      },
+      "salience": 0.009431602,
+      "mentions": [
+        {
+          "text": {
+            "content": "DJ Syncron",
+            "beginOffset": 933
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "organizer",
+            "beginOffset": 923
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Vaishiyas",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/01w1jwx"
+      },
+      "salience": 0.009431602,
+      "mentions": [
+        {
+          "text": {
+            "content": "Vaishiyas",
+            "beginOffset": 1032
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Mr.",
+            "beginOffset": 1028
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "finale",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0088269785,
+      "mentions": [
+        {
+          "text": {
+            "content": "finale",
+            "beginOffset": 452
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "season",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0088269785,
+      "mentions": [
+        {
+          "text": {
+            "content": "season",
+            "beginOffset": 493
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "air",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0088269785,
+      "mentions": [
+        {
+          "text": {
+            "content": "air",
+            "beginOffset": 489
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "surprise",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00805019,
+      "mentions": [
+        {
+          "text": {
+            "content": "surprise",
+            "beginOffset": 545
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "entertainment",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00805019,
+      "mentions": [
+        {
+          "text": {
+            "content": "entertainment",
+            "beginOffset": 586
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Trance",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007784224,
+      "mentions": [
+        {
+          "text": {
+            "content": "Trance",
+            "beginOffset": 166
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "brothers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0073163444,
+      "mentions": [
+        {
+          "text": {
+            "content": "brothers",
+            "beginOffset": 969
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "setting",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0068547567,
+      "mentions": [
+        {
+          "text": {
+            "content": "setting",
+            "beginOffset": 367
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "decoration concept",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0067519518,
+      "mentions": [
+        {
+          "text": {
+            "content": "decoration concept",
+            "beginOffset": 725
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "depth",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0059874416,
+      "mentions": [
+        {
+          "text": {
+            "content": "depth",
+            "beginOffset": 787
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "promoters",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0059757745,
+      "mentions": [
+        {
+          "text": {
+            "content": "promoters",
+            "beginOffset": 809
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "character",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0059757745,
+      "mentions": [
+        {
+          "text": {
+            "content": "character",
+            "beginOffset": 872
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "North-East",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/027rjr",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Northeastern_United_States"
+      },
+      "salience": 0.005231992,
+      "mentions": [
+        {
+          "text": {
+            "content": "North-East",
+            "beginOffset": 473
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "festival",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0052006324,
+      "mentions": [
+        {
+          "text": {
+            "content": "festival",
+            "beginOffset": 1014
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Psytrance",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/012x7b",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Psychedelic_trance"
+      },
+      "salience": 0.0047574677,
+      "mentions": [
+        {
+          "text": {
+            "content": "Psytrance",
+            "beginOffset": 614
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "impression",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0047076307,
+      "mentions": [
+        {
+          "text": {
+            "content": "impression",
+            "beginOffset": 773
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "insights",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004192425,
+      "mentions": [
+        {
+          "text": {
+            "content": "insights",
+            "beginOffset": 843
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sound systems",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0035262483,
+      "mentions": [
+        {
+          "text": {
+            "content": "sound systems",
+            "beginOffset": 672
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dance floors",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0026349076,
+      "mentions": [
+        {
+          "text": {
+            "content": "dance floors",
+            "beginOffset": 693
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Symphonix",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002451706,
+      "mentions": [
+        {
+          "text": {
+            "content": "Symphonix",
+            "beginOffset": 959
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Tshitraka",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002451706,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tshitraka",
+            "beginOffset": 1004
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "SpinTwist Records",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/0dnblqj"
+      },
+      "salience": 0.002451706,
+      "mentions": [
+        {
+          "text": {
+            "content": "SpinTwist Records",
+            "beginOffset": 1045
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Funktion One",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/012843pf",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Funktion-One"
+      },
+      "salience": 0.0015601089,
+      "mentions": [
+        {
+          "text": {
+            "content": "Funktion One",
+            "beginOffset": 659
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Germany",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0345h",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Germany"
+      },
+      "salience": 0.0015601089,
+      "mentions": [
+        {
+          "text": {
+            "content": "Germany",
+            "beginOffset": 636
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

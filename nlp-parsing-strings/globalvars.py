@@ -11,4 +11,10 @@ def init():
     test_case = 0
     global test_key
     test_key = ""
+    global festival_name
+    festival_name = ""
+    global dates
+    dates = ""
+    global bio_input
+    bio_input = 0
 

@@ -1,13 +1,8 @@
-import csv
 import json
-import payload_api
-
 import sys
-
 import globalvars
+import dateutil.parser as dp
 
-
-## TODO: CREATE ENVIROMENT WITH GLOBAL VARIABLES FOR DATAPAYLOAD AND ALL THE OTHERS
 
 
 ## Declaring variables, need to be put in enviroment file later
@@ -47,6 +42,7 @@ for key in festival_data.keys():
 bio_list_len = len(globalvars.bio_list)
 festival_list_len = len(globalvars.festival_list)
 
+
 ## Making sure lists are of same len
 if bio_list_len != festival_list_len:
     print("ERROR: Bio and festivals not same len")
@@ -61,27 +57,28 @@ while True:
         print("Wrong input! Which bio you want to check?: ")
         continue
     else:
-        print("Correct input!")
+        print("The festival you chose is: " + globalvars.festival_list[int(bio_input)])
         break
 
+
+
+## Changing global variables for later usage
 globalvars.test_case = int(bio_input)
-
-
-
-## TODO, CHECK HOW I WRITE COLLUMNS FOR EACH ELEMENT
-#with open('test_festivals.csv', 'w') as csvfile:
-    #writer = csv.DictWriter(csvfile, fieldnames=['fdfdsfd', 'sfdfsd'], extrasaction='ignore')
-    #writer.writeheader()
-   # for key in csv_dict.keys():
-       #key_value = csv_dict[key]
-       # writer.writerow(key_value)
-
-
-
+globalvars.festival_name = globalvars.festival_list[globalvars.test_case] + ".txt"
+print(globalvars.festival_name)
 
 
 ## Change bio string for POST
 bio_string = globalvars.bio_list[globalvars.test_case]
+
+
+## Parsing for dates
+try:
+   globalvars.dates = dp.parse(bio_string,fuzzy=True)
+except:
+    print("No date found")
+
+
 
 
 # Declaring payload for google API POST request, bio_string is parsed
@@ -93,25 +90,6 @@ data_payload = {
   }
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-data_payload = {
-    "encodingType": "UTF8",
-    "document": {
-    "type": "PLAIN_TEXT",
-    "content": "placehodler"
-  }
-}
 
 
 

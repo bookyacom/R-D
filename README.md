@@ -1,19 +1,20 @@
 # This is a Research and Development repo for Bookya
 
 ### *_nlp-parsing-strings_*
+### UPDATE: "Working pipeline"
 
-1: Run main.py
+1: Run execute.py
 
 2: Enter API key when prompted
 
 3: Give an int for bio to check
 
-4: Output = json formatted NLP Google Cloud response
+4: Uses the google API to extract entities
 
-Global variables are saved in globalvars.py
-Testcases of different bios are saved in testcase folder
+5: Ouptut printed are the entities listed, and date if there is one
+
+Note: Global variables are saved in globalvars.py
+
 
 ## TODO
-- Iterate over bios and extract dates
-- See which entities are usefull (LOCATION, PERSON)
-- Save output with festival name
+- Optional: Save output with festival name
